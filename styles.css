@@ -1,0 +1,57 @@
+body {
+	font-family: Cambria;
+	font-size: 11px;
+}
+.caixa {
+	
+	border: 1px solid #787478;
+-webkit-box-shadow: 9px 9px 3px 0px rgba(209,194,209,1);
+-moz-box-shadow: 9px 9px 3px 0px rgba(209,194,209,1);
+box-shadow: 9px 9px 3px 0px rgba(209,194,209,1);
+	padding:5px 2px 5px 5px;
+
+}
+.box{
+  width:300px;	
+  padding: 20px;
+}
+.dog{
+	border-style: solid;
+	border:5px;
+	width: 300px;
+	height: 200px;
+	padding:5px 2px 20px 2px: 
+
+}
+
+
+.boxtext{
+	padding:5px 2px 5px 2px;
+	width:300px;	
+	border:1px;
+	border-style:solid;
+	border-color:#d6d6d6;
+
+}
+.h2 {
+	border:1px;
+	font-family: Cambria;
+	font-weight: bolder;
+	padding:5px 2px 5px 2px;
+
+}
+.p {
+	font-style: italic;
+
+}
+.li {
+	margin-left: -40px;
+	list-style-type: none;
+	text-align: left;
+
+}
+.pp {
+	font-weight: bold;
+}
+.
+
